@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortingApp", "SortingApp.csproj", "{31EA8972-DCAD-43CB-8E59-3145FBF43A84}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestSortingApp", "..\..\TestSortingApp\TestSortingApp.csproj", "{9E0DE72F-1CD4-468A-90ED-6CAB3F62146E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestSortingApp", "..\TestSortingApp\TestSortingApp.csproj", "{50290036-2843-41DA-BE48-7F8A4526CF34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{31EA8972-DCAD-43CB-8E59-3145FBF43A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31EA8972-DCAD-43CB-8E59-3145FBF43A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31EA8972-DCAD-43CB-8E59-3145FBF43A84}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9E0DE72F-1CD4-468A-90ED-6CAB3F62146E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9E0DE72F-1CD4-468A-90ED-6CAB3F62146E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9E0DE72F-1CD4-468A-90ED-6CAB3F62146E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9E0DE72F-1CD4-468A-90ED-6CAB3F62146E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50290036-2843-41DA-BE48-7F8A4526CF34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50290036-2843-41DA-BE48-7F8A4526CF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50290036-2843-41DA-BE48-7F8A4526CF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50290036-2843-41DA-BE48-7F8A4526CF34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
